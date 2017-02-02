@@ -3,14 +3,6 @@
     "type": "symfony-bundle",
     "description": "Elasticsearch PHP integration for your Symfony2 project using Elastica",
     "keywords": ["doctrine2", "elastica", "elasticsearch", "mongodb", "propel", "search"],
-    "homepage": "https://github.com/FriendsOfSymfony/FOSElasticaBundle",
-    "license": "MIT",
-    "authors": [
-        { "name": "FriendsOfSymfony Community", "homepage": "https://github.com/FriendsOfSymfony/FOSElasticaBundle/contributors" },
-        { "name": "Tim Nagel", "email": "tim@nagel.com.au" },
-        { "name": "Richard Miller", "email": "richard.miller@limethinking.co.uk" },
-        { "name": "Jeremy Mikola", "email": "jmikola@gmail.com" }
-    ],
     "require": {
         "php": ">=5.5.0",
         "symfony/framework-bundle": "~2.7|~3.0",
@@ -37,9 +29,6 @@
         "symfony/serializer": "~2.7|~3.0",
         "symfony/yaml": "~2.7|~3.0",
         "symfony/dependency-injection": "~2.7|~3.0"
-    },
-    "autoload": {
-        "psr-4": { "FOS\\ElasticaBundle\\": "" }
     },
     "extra": {
         "branch-alias": {
