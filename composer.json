@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Elasticsearch PHP integration for your Symfony2 project using Elastica",
     "keywords": ["doctrine2", "elastica", "elasticsearch", "mongodb", "propel", "search"],
-    "homepage": "https://github.com/FriendsOfSymfony/FOSElasticaBundle",
+    "homepage": "https://github.com/iBasit/FOSElasticaBundle",
     "license": "MIT",
     "authors": [
         { "name": "FriendsOfSymfony Community", "homepage": "https://github.com/FriendsOfSymfony/FOSElasticaBundle/contributors" },
